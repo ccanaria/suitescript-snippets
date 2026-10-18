@@ -2,8 +2,14 @@
   "name": "canariawerx-suitescript-snippets",
   "displayName": "CanariaWerx SuiteScript Snippets",
   "description": "Code snippets for NetSuite SuiteScript 1.0 and 2.1 development",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "publisher": "canariawerx",
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#1e2a38",
+    "theme": "dark"
+  },
+  "pricing": "Free",
   "author": "Clemen Canaria <clemen@canariawerx.com> (https://clemen.canariawerx.com)",
   "engines": {
     "vscode": "^1.80.0"
@@ -36,6 +42,10 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/ccanaria/suitescript-snippets"
+  },
+  "homepage": "https://github.com/ccanaria/suitescript-snippets#readme",
+  "bugs": {
+    "url": "https://github.com/ccanaria/suitescript-snippets/issues"
   },
   "license": "SEE LICENSE IN LICENSE"
 }
