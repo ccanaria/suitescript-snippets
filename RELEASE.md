@@ -85,7 +85,7 @@ A comprehensive collection of VS Code snippets for NetSuite SuiteScript developm
 ## 🎯 Highlights
 
 - ✅ **Dual Version Support** - Both SuiteScript 1.0 and 2.1
-- ✅ **60+ Total Snippets** - Comprehensive coverage of all script types
+- ✅ **50 Total Snippets** - Comprehensive coverage of all script types
 - ✅ **Modern Syntax** - ECMA 6 for SuiteScript 2.1 (arrow functions, const/let)
 - ✅ **Legacy Support** - Traditional function syntax for SuiteScript 1.0
 - ✅ **JSDoc Annotations** - Better IntelliSense and documentation
@@ -100,19 +100,23 @@ A comprehensive collection of VS Code snippets for NetSuite SuiteScript developm
 
 ## 📝 License
 
-This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)** - a copyleft license.
+This project is licensed under a **Custom Source-Available License**.
 
 This means:
-- ✅ You can freely use, modify, and distribute this software
-- ✅ You can use it for commercial purposes
-- ⚠️ Any modified versions must also be released under GPL-3.0
-- ⚠️ Source code must be made available when distributing
-- ⚠️ Changes must be documented
+- ✅ You can fork this repository and modify it
+- ✅ You can use it in your own projects (personal or commercial)
+- ✅ You can use the code in your own work
+- ❌ You cannot create standalone copies or redistributions
+- ❌ You cannot republish this as your own work
+- ⚠️ All forks must maintain attribution to the original author
+- ⚠️ Public forks must link back to the original repository
+
+See the [LICENSE](LICENSE) file for full details.
 
 ## 📧 Contact
 
-**Clemen Canaria** - [CanariaWerx](https://github.com/canariawerx)  
-📧 ccanaria [at] gmail [dot] com | clemen [at] canariawerx [dot] com
+**Clemen Canaria** - [CanariaWerx](https://github.com/ccanaria/suitescript-snippets)  
+📧 clemen [at] canariawerx [dot] com
 
 ---
 

@@ -1,7 +1,7 @@
 # SuiteScript Code Snippets
 
 **Author:** Clemen Canaria  
-**Email:** ccanaria [at] gmail [dot] com | clemen [at] canariawerx [dot] com  
+**Email:** clemen [at] canariawerx [dot] com  
 **Organization:** CanariaWerx
 
 A comprehensive collection of VS Code snippets for NetSuite SuiteScript development, supporting both SuiteScript 1.0 and SuiteScript 2.1.
@@ -160,7 +160,7 @@ function get(datain) {
 ### Method 1: From VS Code Marketplace (Recommended)
 1. Open VS Code
 2. Go to Extensions view (`Ctrl+Shift+X` or `Cmd+Shift+X` on Mac)
-3. Search for "SuiteScript 2.1 Code Snippets"
+3. Search for "CanariaWerx SuiteScript Snippets"
 4. Click **Install**
 5. Reload VS Code if prompted
 
@@ -253,8 +253,8 @@ See the [LICENSE](LICENSE) file for full details.
 
 ## Author
 
-**Clemen Canaria** - [CanariaWerx](https://github.com/canariawerx)  
-📧 ccanaria [at] gmail [dot] com | clemen [at] canariawerx [dot] com
+**Clemen Canaria** - [CanariaWerx](https://github.com/ccanaria/suitescript-snippets)  
+📧 clemen [at] canariawerx [dot] com
 
 ## Release Notes
 
