@@ -4,4 +4,6 @@
 .history/**
 node_modules/**
 .git/**
+.github/**
+RELEASE.md
 *.vsix
