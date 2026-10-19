@@ -2,6 +2,18 @@
 
 All notable changes to the "SuiteScript Snippets" extension will be documented in this file.
 
+## [1.1.1] - 2026-10-18
+
+### Added
+- Extension icon and Marketplace gallery banner
+- Marketplace metadata in `package.json` (`homepage`, `bugs`, `pricing`)
+
+### Changed
+- Corrected the advertised snippet count to 50 (32 for SuiteScript 1.0, 18 for SuiteScript 2.1)
+- Updated README with the actual Marketplace display name, contact email, and repository links
+- Aligned `RELEASE.md` licensing section with the Custom Source-Available License in `LICENSE`
+- Excluded `RELEASE.md` and `.github/` from the packaged extension
+
 ## [1.1.0] - 2026-01-22
 
 ### Added
